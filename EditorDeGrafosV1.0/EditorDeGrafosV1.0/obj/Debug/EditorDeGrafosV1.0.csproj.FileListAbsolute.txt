@@ -1,7 +1,6 @@
 C:\Users\Cristo\Desktop\UASLP6ºSem\EditorDeGrafosV1.0\EditorDeGrafosV1.0\bin\Debug\EditorDeGrafosV1.0.exe.config
 C:\Users\Cristo\Desktop\UASLP6ºSem\EditorDeGrafosV1.0\EditorDeGrafosV1.0\bin\Debug\EditorDeGrafosV1.0.exe
 C:\Users\Cristo\Desktop\UASLP6ºSem\EditorDeGrafosV1.0\EditorDeGrafosV1.0\bin\Debug\EditorDeGrafosV1.0.pdb
-C:\Users\Cristo\Desktop\UASLP6ºSem\EditorDeGrafosV1.0\EditorDeGrafosV1.0\obj\Debug\EditorDeGrafosV1.0.csprojResolveAssemblyReference.cache
 C:\Users\Cristo\Desktop\UASLP6ºSem\EditorDeGrafosV1.0\EditorDeGrafosV1.0\obj\Debug\EditorDeGrafosV1._0.Editor.resources
 C:\Users\Cristo\Desktop\UASLP6ºSem\EditorDeGrafosV1.0\EditorDeGrafosV1.0\obj\Debug\EditorDeGrafosV1._0.Properties.Resources.resources
 C:\Users\Cristo\Desktop\UASLP6ºSem\EditorDeGrafosV1.0\EditorDeGrafosV1.0\obj\Debug\EditorDeGrafosV1.0.csproj.GenerateResource.Cache
@@ -12,3 +11,5 @@ C:\Users\Cristo\Desktop\UASLP6ºSem\EditorDeGrafosV1.0\EditorDeGrafosV1.0\bin\De
 C:\Users\Cristo\Desktop\UASLP6ºSem\EditorDeGrafosV1.0\EditorDeGrafosV1.0\obj\Debug\Interop.WMPLib.dll
 C:\Users\Cristo\Desktop\UASLP6ºSem\EditorDeGrafosV1.0\EditorDeGrafosV1.0\obj\Debug\AxInterop.WMPLib.dll
 C:\Users\Cristo\Desktop\UASLP6ºSem\EditorDeGrafosV1.0\EditorDeGrafosV1.0\obj\Debug\EditorDeGrafosV1.0.csproj.ResolveComReference.cache
+C:\Users\Cristo\Desktop\UASLP6ºSem\EditorDeGrafosV1.0\EditorDeGrafosV1.0\obj\Debug\EditorDeGrafosV1._0.Matriz.resources
+C:\Users\Cristo\Desktop\UASLP6ºSem\EditorDeGrafosV1.0\EditorDeGrafosV1.0\obj\Debug\EditorDeGrafosV1._0.Peso.resources

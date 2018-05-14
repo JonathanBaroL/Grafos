@@ -8,7 +8,7 @@ using System.Drawing;
 namespace EditorDeGrafosV1._0
 {
     [Serializable()]
-    class Arista
+     public class Arista
     {
         private int xi;
         private int yi;
@@ -19,6 +19,7 @@ namespace EditorDeGrafosV1._0
         private int tipo;     // Si es 0 es una linea, si es 1 es un spline, si es 2 es una oreja.
         private int ndArista; // identifica que numero de arista es.
         private int ninc;     // de acuerdo a el numero de arista que es.
+        private int peso;     // peso de la arista
 
         public void Dibujar(Graphics lienzo)
         {
@@ -152,6 +153,20 @@ namespace EditorDeGrafosV1._0
             set
             {
                 ninc = value;
+
+            }
+
+        }
+
+        public int Peso
+        {
+            get
+            {
+                return peso;
+            }
+            set
+            {
+                peso = value;
 
             }
 
